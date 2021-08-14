@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-karayel-39a245193/)
+
+
 
 
 
@@ -25,5 +27,5 @@
 - Machine Learning
 - Artificial Intelligence
 
-[linkedin]: https://www.linkedin.com/in/ahmet-karayel-39a245193/
+
 
