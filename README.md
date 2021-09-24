@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning AI and ML.
-- 🔭 I'm currently working to be good Data Scientist.
+- 🔭 I'm currently studying to be good Data Scientist.
 
 
 
