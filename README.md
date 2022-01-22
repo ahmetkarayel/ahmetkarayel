@@ -43,3 +43,8 @@
 	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 	<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a> 
 </p>
+
+
+<h4 align="left">Databases:</h4>
+<p align="left">
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a>
