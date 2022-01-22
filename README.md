@@ -49,3 +49,4 @@
 <h4 align="left">Databases:</h4>
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="Microsoft SQL Server" width="40" height="40"/> </a>
