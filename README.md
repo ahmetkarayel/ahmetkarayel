@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Data Science and Data Analysis.
+- 🌱 I’m currently learning RNN.
 - 🔭 I'm currently studying to be good Data Scientist.
 
 
