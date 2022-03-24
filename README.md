@@ -25,6 +25,8 @@
 - Data Analysis
 - Machine Learning
 - Artificial Intelligence
+- Deep Learning
+- Big Data
 
 
 <h3 align="left">Tech Stack:</h3>
