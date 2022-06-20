@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning PowerBI.
+- 🌱 I’m currently learning DAX.
 - 🔭 I'm currently studying to be good Data Scientist.
 
 
