@@ -1,4 +1,4 @@
-#							Hi there, I'm Ahmet 👋
+<h1 align="center">Hi 👋 I'm Ahmet</h1>
 
 
 
