@@ -18,17 +18,6 @@
 
 
 
-
-### Interests and Learning
-
-- Data Science
-- Data Analysis
-- Machine Learning
-- Artificial Intelligence
-- Deep Learning
-- Big Data
-
-
 # 💻Tech Stack
 <h4 align="left">Languages:</h4>
 <p align="left">
