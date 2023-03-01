@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>  
 
-- 🌱 I’m currently learning __Flutter & Dart__ 
+- 🌱 I’m currently learning __Flutter & Dart__ and working on mobile app development projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
